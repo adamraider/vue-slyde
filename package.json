@@ -1,0 +1,16 @@
+{
+  "name": "vue-slyde",
+  "description": "A Vue.js component for beautiful sliders.",
+  "version": "0.1.0",
+  "author": "Adam Raider <adamjraider@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:adamraider/vue-slyde.git"
+  },
+  "dependencies": {
+    "vue": "^2.1.0",
+    "draggabilly": "^2.1.1"
+  },
+  "main": "vue-slyde.vue"
+}
